@@ -1,5 +1,4 @@
 import { Injectable, HttpException } from '@nestjs/common';
-import { resolve } from 'path';
 import { Model } from 'mongoose';
 import { InjectModel } from '@nestjs/mongoose';
 import { IProperty } from './interfaces/property.interface';
