@@ -1,5 +1,7 @@
-Full-Stack Developer Assignment – Team Refcoins Interviews
+**Full-Stack Developer Assignment – Team Refcoins Interviews**
+
 Requirement:
+
 Admin Dashboard
 ● Please come up with a suitable dashboard design
 ● Allow adding a new property using
@@ -12,12 +14,14 @@ Admin Dashboard
 ● Property Type (Single Family, Villa)
 ● Property Status (For Sale or For Rent)
 ● Property area in sq ft
+
 Customer Website
 ● Design can be found on the 2nd page
 ● Display all the properties in the front page grid view
 ● Search function:
 ● Should be able to search by location
 ● The search result page design should be similar to the website design
+
 Technology:
 ● Next Js
 ● Nest Js
