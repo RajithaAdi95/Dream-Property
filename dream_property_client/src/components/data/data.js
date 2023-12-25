@@ -1,5 +1,13 @@
 
- export const list = [
+export const navLinks = [
+    {
+        id: 1,
+        text: "Home",
+        path: "/",
+    },
+]
+
+export const list = [
     {
         id: 1,
         // cover: "../images/list/p-1.png",

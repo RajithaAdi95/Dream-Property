@@ -93,10 +93,13 @@ form select {
   font-size: 10px;
 }
 .location-color {
-  color: lightblue;
+  color: rgb(0, 166, 255);
 }
 .show-inline {
   display: inline-block;
+}
+.font-bold-class {
+  font-weight: 600;
 }
 
 :root {

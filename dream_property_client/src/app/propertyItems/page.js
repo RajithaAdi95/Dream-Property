@@ -1,4 +1,4 @@
-/* use client */
+// /* use client */
 import React, { useState } from "react";
 import { list } from "./data/data";
 import { TfiLocationPin } from "react-icons/tfi";
